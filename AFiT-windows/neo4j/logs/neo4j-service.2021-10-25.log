@@ -1,0 +1,9 @@
+[2021-10-25 10:45:20] [info]  [ 1560] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2021-10-25 10:45:20] [info]  [ 1560] Starting service 'neo4j'...
+[2021-10-25 10:45:20] [info]  [ 9760] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2021-10-25 10:45:20] [info]  [ 9760] Running Service 'neo4j'...
+[2021-10-25 10:45:20] [info]  [ 5460] Starting service...
+[2021-10-25 10:45:22] [info]  [ 5460] Service started in 2677 milliseconds.
+[2021-10-25 10:45:24] [info]  [ 1560] Started service 'neo4j'.
+[2021-10-25 10:45:24] [info]  [ 1560] Finished starting service 'neo4j', returning 1.
+[2021-10-25 10:45:24] [info]  [ 1560] Apache Commons Daemon procrun finished.

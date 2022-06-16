@@ -1,0 +1,35 @@
+[2022-04-01 13:13:12] [info]  [11948] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2022-04-01 13:13:12] [info]  [11948] Stopping service 'neo4j'...
+[2022-04-01 13:13:21] [info]  [ 4996] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2022-04-01 13:13:21] [info]  [ 4996] Starting service 'neo4j'...
+[2022-04-01 13:13:21] [info]  [14112] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2022-04-01 13:13:21] [info]  [14112] Running Service 'neo4j'...
+[2022-04-01 13:13:21] [info]  [13516] Starting service...
+[2022-04-01 13:13:23] [info]  [13516] Service started in 2541 milliseconds.
+[2022-04-01 13:13:24] [error] [11948] apxServiceControl(): dwState(1) != dwCurrentState(4); dwWin32ExitCode = 0, dwWaitHint = 0, dwServiceSpecificExitCode = 0
+[2022-04-01 13:13:24] [error] [11948] apxServiceControl(): returning FALSE
+[2022-04-01 13:13:24] [error] [11948] Failed to stop service 'neo4j'.
+[2022-04-01 13:13:24] [info]  [11948] Stop service finished.
+[2022-04-01 13:13:24] [error] [11948] Apache Commons Daemon procrun failed with exit value: 6 (failed to stop service).
+[2022-04-01 13:13:25] [info]  [ 4996] Started service 'neo4j'.
+[2022-04-01 13:13:25] [info]  [ 4996] Finished starting service 'neo4j', returning 1.
+[2022-04-01 13:13:25] [info]  [ 4996] Apache Commons Daemon procrun finished.
+[2022-04-01 13:14:41] [info]  [ 8304] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2022-04-01 13:14:41] [info]  [ 8304] Stopping service 'neo4j'...
+[2022-04-01 13:14:41] [info]  [ 9620] Stopping service...
+[2022-04-01 13:14:49] [info]  [18540] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2022-04-01 13:14:49] [info]  [18540] Starting service 'neo4j'...
+[2022-04-01 13:14:49] [info]  [15528] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2022-04-01 13:14:49] [info]  [15528] Running Service 'neo4j'...
+[2022-04-01 13:14:49] [info]  [18300] Starting service...
+[2022-04-01 13:14:51] [info]  [18300] Service started in 1287 milliseconds.
+[2022-04-01 13:14:52] [info]  [18540] Started service 'neo4j'.
+[2022-04-01 13:14:52] [info]  [18540] Finished starting service 'neo4j', returning 1.
+[2022-04-01 13:14:52] [info]  [18540] Apache Commons Daemon procrun finished.
+[2022-04-01 13:14:53] [error] [ 8304] apxServiceControl(): dwState(1) != dwCurrentState(4); dwWin32ExitCode = 0, dwWaitHint = 0, dwServiceSpecificExitCode = 0
+[2022-04-01 13:14:53] [error] [ 8304] apxServiceControl(): returning FALSE
+[2022-04-01 13:14:53] [error] [ 8304] Failed to stop service 'neo4j'.
+[2022-04-01 13:14:53] [info]  [ 8304] Stop service finished.
+[2022-04-01 13:14:53] [error] [ 8304] Apache Commons Daemon procrun failed with exit value: 6 (failed to stop service).
+[2022-04-19 12:20:56] [info]  [ 6992] Console SHUTDOWN event signaled.
+[2022-04-19 12:20:56] [info]  [ 6992] Stopping service...

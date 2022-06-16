@@ -1,0 +1,9 @@
+
+2022-05-09 11:28:24 Apache Commons Daemon procrun stdout initialized.
+2022-05-09 09:28:25.522+0000 INFO  Starting...
+2022-05-09 09:28:27.932+0000 INFO  ======== Neo4j 4.3.6 ========
+2022-05-09 09:28:28.988+0000 INFO  Performing postInitialization step for component 'security-users' with version 3 and status CURRENT
+2022-05-09 09:28:28.988+0000 INFO  Updating the initial password in component 'security-users'
+2022-05-09 09:28:29.768+0000 INFO  Bolt enabled on [0:0:0:0:0:0:0:0]:7687.
+2022-05-09 09:28:30.588+0000 INFO  Remote interface available at http://localhost:7474/
+2022-05-09 09:28:30.589+0000 INFO  Started.

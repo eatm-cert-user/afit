@@ -1,0 +1,29 @@
+[2022-05-09 11:22:50] [info]  [ 7380] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2022-05-09 11:22:50] [info]  [ 7380] Stopping service 'neo4j'...
+[2022-05-09 11:23:02] [info]  [ 7380] Service 'neo4j' stopped.
+[2022-05-09 11:23:02] [info]  [ 7380] Stop service finished.
+[2022-05-09 11:23:02] [info]  [ 7380] Apache Commons Daemon procrun finished.
+[2022-05-09 11:25:22] [info]  [11588] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2022-05-09 11:25:22] [info]  [11588] Starting service 'neo4j'...
+[2022-05-09 11:25:22] [info]  [ 4560] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2022-05-09 11:25:22] [info]  [ 4560] Running Service 'neo4j'...
+[2022-05-09 11:25:22] [info]  [15424] Starting service...
+[2022-05-09 11:25:24] [info]  [15424] Service started in 1451 milliseconds.
+[2022-05-09 11:25:25] [info]  [11588] Started service 'neo4j'.
+[2022-05-09 11:25:25] [info]  [11588] Finished starting service 'neo4j', returning 1.
+[2022-05-09 11:25:25] [info]  [11588] Apache Commons Daemon procrun finished.
+[2022-05-09 11:27:35] [info]  [ 2552] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2022-05-09 11:27:35] [info]  [ 2552] Stopping service 'neo4j'...
+[2022-05-09 11:27:35] [info]  [13200] Stopping service...
+[2022-05-09 11:27:48] [info]  [ 2552] Service 'neo4j' stopped.
+[2022-05-09 11:27:48] [info]  [ 2552] Stop service finished.
+[2022-05-09 11:27:48] [info]  [ 2552] Apache Commons Daemon procrun finished.
+[2022-05-09 11:28:24] [info]  [17596] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2022-05-09 11:28:24] [info]  [17596] Starting service 'neo4j'...
+[2022-05-09 11:28:24] [info]  [ 5920] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2022-05-09 11:28:24] [info]  [ 5920] Running Service 'neo4j'...
+[2022-05-09 11:28:24] [info]  [12072] Starting service...
+[2022-05-09 11:28:25] [info]  [12072] Service started in 1286 milliseconds.
+[2022-05-09 11:28:27] [info]  [17596] Started service 'neo4j'.
+[2022-05-09 11:28:27] [info]  [17596] Finished starting service 'neo4j', returning 1.
+[2022-05-09 11:28:27] [info]  [17596] Apache Commons Daemon procrun finished.

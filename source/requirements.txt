@@ -1,0 +1,4 @@
+pyside6
+neo4j
+py2neo
+gitpython
